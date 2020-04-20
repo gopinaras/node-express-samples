@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gopinaras/node-express-samples/issues"
   },
-  "homepage": "https://github.com/gopinaras/node-express-samples#readme"
+  "homepage": "https://github.com/gopinaras/node-express-samples#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
